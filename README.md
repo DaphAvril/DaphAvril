@@ -1,54 +1,31 @@
-![SheCodes Banner](./shecodes.gif)
+<div align="center">
+  <img src="./shecodes.gif" width="200" alt="SheCodes Banner"/>
+</div>
 
-# Hi there 👋
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
+I am a passionate **Full-Stack .NET Software Developer**, on a mission to uncover the endless wonders of the tech universe.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="30"> <br/>
+I love turning ideas into scalable, meaningful digital solutions and continuously pushing my skills across web and mobile platforms.
 
----
-
-## 👩‍💻 About Me
-
-I am a passionate **Full-Stack .NET Software Developer** , on a perpetual journey to unravel the wonders of the digital realm. I love turning ideas into scalable, meaningful digital solutions and continuously pushing my skills across web and mobile platforms.
-
-👩‍💻 My fingers dance across the keyboard, crafting clean and elegant lines of code that bring innovative ideas to life. 
+👩‍💻 Writing code is my way of turning imagination into functional innovation.  
 
 ⚡ If I am not designing and developing something, I would be thinking of designing and developing something!!!
 
 ---
 
-## 💬 My Socials
-
-* 💼 LinkedIn (add your link)
-* 🐦 Twitter / X (add your link)
-
----
-
 ## 🛠️ Languages & Tools
 
-**Back-End**
+**Back-End**  
+.NET (C#), Node.js, REST APIs
 
-* .NET (C#)
-* Node.js
-* REST APIs
+**Front-End**  
+JavaScript, Angular, React, React Native, **Blazor (Server & WebAssembly)**
 
-**Front-End**
+**Mobile Development**  
+Ionic, React Native, **.NET MAUI**
 
-* JavaScript
-* Angular
-* React
-* React Native
-
-**Mobile Development**
-
-* Ionic
-* React Native
-* .NET MAUI
-
-**Other Tools**
-
-* HTML5 & CSS3
-* Git & GitHub
-* Responsive Design
-* API Integration
+**Other Tools**  
+HTML5 & CSS3, Git & GitHub, Responsive Design, API Integration
 
 ---
 
@@ -56,8 +33,14 @@ I am a passionate **Full-Stack .NET Software Developer** , on a perpetual journe
 
 > *Always learning. Always building.*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaphAvril\&show_icons=true\&theme=tokyonight)
-
 ---
 
 ✨ *Thanks for stopping by — feel free to explore my repositories!*
+
+<div align="center">
+  <img src="./shecodes1.gif" width="200" alt="SheCodes Banner"/>
+</div>
+
+
+
+
