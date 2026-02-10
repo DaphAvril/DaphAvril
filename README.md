@@ -1,4 +1,4 @@
-![SheCodes Banner](./shecodes.png)
+![SheCodes Banner](./shecodes.gif)
 
 # Hi there 👋
 
