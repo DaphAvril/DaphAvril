@@ -38,7 +38,7 @@ HTML5 & CSS3, Git & GitHub, Responsive Design, API Integration
 ✨ *Thanks for stopping by — feel free to explore my repositories!*
 
 <div align="center">
-  <img src="./shecodes1.gif" width="200" alt="SheCodes Banner"/>
+  <img src="./shecodes3.gif" width="200" alt="SheCodes Banner"/>
 </div>
 
 
